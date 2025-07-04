@@ -1,0 +1,185 @@
+[
+  {
+    "id": "quick_54437",
+    "format": "3v3",
+    "map": "Champions Field",
+    "mode": "Soccar",
+    "status": "ready",
+    "match_name": "QuickRL9283",
+    "password": "QL333",
+    "created_at": "2025-07-02T23:48:42.293526",
+    "orange_players": [
+      "Lily..."
+    ],
+    "blue_players": [],
+    "auto_assigned": true
+  },
+  {
+    "id": "ranked_63109",
+    "format": "1v1",
+    "map": "Mannfield",
+    "mode": "Soccar",
+    "status": "in_progress",
+    "match_name": "HHRanked6989",
+    "password": "HH959",
+    "created_at": "2025-07-02T23:50:24.017316",
+    "lobby_host": "Lily...",
+    "orange_players": [
+      "Lily..."
+    ],
+    "blue_players": [
+      "TonyDaTanker"
+    ]
+  },
+  {
+    "id": "auto_81008",
+    "team1_name": "Orange Team",
+    "team2_name": "Blue Team",
+    "orange_players": [
+      "LastSecondHero",
+      "PassMaster_RL",
+      "TeamPlayer_Pro"
+    ],
+    "blue_players": [
+      "AerialMaster99",
+      "PowerShot_Beast",
+      "CeilingShot_Pro"
+    ],
+    "format": "3v3",
+    "map": "Mannfield",
+    "mode": "Soccar",
+    "status": "ready",
+    "match_name": "AutoRL7262",
+    "password": "AUTO559",
+    "created_at": "2025-07-03T21:39:15.944388",
+    "type": "auto_matched"
+  },
+  {
+    "id": "auto_82784",
+    "team1_name": "Orange Team",
+    "team2_name": "Blue Team",
+    "orange_players": [
+      "MidFieldMaestro",
+      "ProRL_Striker"
+    ],
+    "blue_players": [
+      "BoostHoarder",
+      "LastSecondHero"
+    ],
+    "format": "2v2",
+    "map": "Neo Tokyo",
+    "mode": "Soccar",
+    "status": "ready",
+    "match_name": "AutoRL7812",
+    "password": "AUTO286",
+    "created_at": "2025-07-03T21:40:15.939751",
+    "type": "auto_matched"
+  },
+  {
+    "id": "auto_68817",
+    "team1_name": "Orange Team",
+    "team2_name": "Blue Team",
+    "orange_players": [
+      "FlipReset_God"
+    ],
+    "blue_players": [
+      "NutmegNinja"
+    ],
+    "format": "1v1",
+    "map": "Mannfield",
+    "mode": "Soccar",
+    "status": "ready",
+    "match_name": "AutoRL2223",
+    "password": "AUTO830",
+    "created_at": "2025-07-03T21:40:45.952527",
+    "type": "auto_matched"
+  },
+  {
+    "id": "auto_60881",
+    "team1_name": "Orange Team",
+    "team2_name": "Blue Team",
+    "orange_players": [
+      "PowerShot_Beast",
+      "RotationKing",
+      "CeilingShot_Pro"
+    ],
+    "blue_players": [
+      "MidFieldMaestro",
+      "GroundGame_God",
+      "FreestyleFanatic"
+    ],
+    "format": "3v3",
+    "map": "Mannfield",
+    "mode": "Soccar",
+    "status": "ready",
+    "match_name": "AutoRL6640",
+    "password": "AUTO678",
+    "created_at": "2025-07-03T21:40:46.357622",
+    "type": "auto_matched"
+  },
+  {
+    "id": "auto_86515",
+    "team1_name": "Orange Team",
+    "team2_name": "Blue Team",
+    "orange_players": [
+      "DemoExpert",
+      "BoostHoarder"
+    ],
+    "blue_players": [
+      "CeilingShot_Pro",
+      "PowerShot_Beast"
+    ],
+    "format": "2v2",
+    "map": "Champions Field",
+    "mode": "Soccar",
+    "status": "ready",
+    "match_name": "AutoRL2717",
+    "password": "AUTO815",
+    "created_at": "2025-07-03T21:42:15.941402",
+    "type": "auto_matched"
+  },
+  {
+    "id": "auto_88711",
+    "team1_name": "Orange Team",
+    "team2_name": "Blue Team",
+    "orange_players": [
+      "PowerShot_Beast",
+      "DemoExpert"
+    ],
+    "blue_players": [
+      "CeilingShot_Pro",
+      "BoostHoarder"
+    ],
+    "format": "2v2",
+    "map": "Champions Field",
+    "mode": "Soccar",
+    "status": "ready",
+    "match_name": "AutoRL7113",
+    "password": "AUTO278",
+    "created_at": "2025-07-03T21:42:45.941815",
+    "type": "auto_matched"
+  },
+  {
+    "id": "auto_28859",
+    "team1_name": "Orange Team",
+    "team2_name": "Blue Team",
+    "orange_players": [
+      "GroundGame_God",
+      "ProRL_Striker",
+      "LastSecondHero"
+    ],
+    "blue_players": [
+      "MidFieldMaestro",
+      "TeamPlayer_Pro",
+      "WallRider_Elite"
+    ],
+    "format": "3v3",
+    "map": "DFH Stadium",
+    "mode": "Soccar",
+    "status": "ready",
+    "match_name": "AutoRL2743",
+    "password": "AUTO458",
+    "created_at": "2025-07-03T21:42:46.164388",
+    "type": "auto_matched"
+  }
+]

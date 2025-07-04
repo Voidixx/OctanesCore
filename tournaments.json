@@ -1,0 +1,38 @@
+[
+  {
+    "id": "auto_tournament_12677",
+    "type": "Single Elimination",
+    "format": "3v3",
+    "map": "DFH Stadium",
+    "mode": "Soccar",
+    "max_teams": 8,
+    "status": "registration",
+    "teams": [],
+    "matches": [],
+    "created_at": "2025-07-03T23:06:21.102023",
+    "created_by": "auto_system",
+    "prize_pool": 164,
+    "current_round": 0,
+    "registration_deadline": "2025-07-04T01:06:21.102035",
+    "auto_start_time": "2025-07-04T01:06:21.102044",
+    "auto_created": true
+  },
+  {
+    "id": "auto_tournament_73111",
+    "type": "Single Elimination",
+    "format": "3v3",
+    "map": "DFH Stadium",
+    "mode": "Soccar",
+    "max_teams": 16,
+    "status": "registration",
+    "teams": [],
+    "matches": [],
+    "created_at": "2025-07-03T23:49:05.651982",
+    "created_by": "auto_system",
+    "prize_pool": 311,
+    "current_round": 0,
+    "registration_deadline": "2025-07-04T01:49:05.651992",
+    "auto_start_time": "2025-07-04T01:49:05.651999",
+    "auto_created": true
+  }
+]

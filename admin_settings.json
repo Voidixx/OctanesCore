@@ -1,0 +1,17 @@
+{
+  "allow_queue": true,
+  "allow_tournaments": true,
+  "max_tournament_teams": 32,
+  "auto_mmr_updates": true,
+  "mvp_voting_enabled": true,
+  "auto_tournament": {
+    "enabled": true,
+    "interval_minutes": 120,
+    "format": "3v3",
+    "map": "DFH Stadium",
+    "mode": "Soccar",
+    "max_teams": 16,
+    "channel_id": 1390479319804936192,
+    "last_created": "2025-07-03T23:49:05.651889"
+  }
+}
